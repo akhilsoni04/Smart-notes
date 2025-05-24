@@ -19,8 +19,8 @@ A sleek, lightweight notes app built using **HTML, CSS, and JavaScript**. Design
    ```bash
    git clone https://github.com/your-username/smart-notes.git
    ```
-2.Open index.html in your browser.  
-3. Start taking notes! 🚀
+   2.Open index.html in your browser.  
+   3. Start taking notes! 🚀
 
 ## 🎯 Future Enhancements
 - Dark mode support 🌙  
